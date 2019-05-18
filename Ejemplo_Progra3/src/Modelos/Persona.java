@@ -5,10 +5,8 @@
  */
 package Modelos;
 
-/**
- *
- * @author laboratorio
- */
+
+
 public class Persona {
     
     private int cedula;
