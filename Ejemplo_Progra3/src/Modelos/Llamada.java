@@ -24,6 +24,7 @@ public class Llamada {
         E.setCarnetNumero(123456789);
         E.setEdad_Estudiante(18);
         
+        
     }
     
     
